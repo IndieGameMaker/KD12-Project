@@ -225,7 +225,7 @@ pip3 install protobuf==3.20.*
 ### 깃 브랜치 전략
 ### Git Flow
 
-![](git-flow.png)
+![](assets/git-flow.png)
 
 - 작업 시작하기 전 깃 작업
 
