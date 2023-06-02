@@ -4,14 +4,15 @@
 
 [발표 문서 업로드](https://drive.google.com/drive/folders/1fFwbWNDJ8QJoe2Db2GLpjP1PG9XFGkZQ?usp=sharing)
 
-<!-- ## 기획 팀 빌딩
+## 기획 팀 빌딩
+
+- 자리 이동
+- 선정된 기획에 대해 브레인 스토밍
+- 대략적인 구현 기능 목록 정리
 
 |팀명|프로젝트명|플랫폼|팀원|
 |---|---|---|---|
-|Mapper|VR Chat Map 제작|VR|김상연, 김상윤, 김태완|
-|Grovekeeper|VR 펫 키우기|VR|고민혁, 이시훈, 정수지|
-|Future Frame|muu|VR|이재승, 유예찬, 신현지, 박동현|
-|Blood Moon|Walking Zombie|VR|이채환, 이찬우, 박채린|
+|||||
 
 ## 기획 산출물
 
@@ -21,11 +22,7 @@
 - 스토리보드
 - 상세 기능 목록(엑셀, 구글 시트)
 
-## 기획 발표
-
-- 일자 : 2023년 1월 5일
-- 시간 : 오전 09:30 부터
-
+<!-- 
 ## Git 수업
 
 ### 복습 문제
