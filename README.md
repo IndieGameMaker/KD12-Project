@@ -12,12 +12,12 @@
 
 |NO|팀명|프로젝트명|플랫폼|팀장|팀원|트렐로|
 |---|---|---|---|---|---|---|
-|1|Guest|Checkout|VR|서현지|서현지, 길재환, 이주영|[트렐로](https://trello.com/b/yKjYmj4C/project)|
-|2|미정|Tune(가칭)|VR|김석우|장세림, 김석우, 김민지|[트렐로](https://trello.com/b/JaUhdPFq/teammanagementboard)|
-|3|미정|Q-Brain|AR|이재민|이재민,이유나, 추성결|[트렐로](https://trello.com/b/krNboHzW/q-brain)|
-|4|미정|HandMade|VR|이주성|이주성, 이유성, 장민욱, 권영진|[트렐로](https://trello.com/b/IxFITtmL/handmade)|
-|5|미정|VR_Final_MoaMoa|VR|김승환|김승환, 홍지원, 신하은, 이건|[트렐로](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)|
-|6|미정|Tears of the medici|VR|구관우|구관우, 강태훈, 현민기, 강효준|[트렐로](https://trello.com/b/c7CLErgg/tears-of-the-medichi)|
+|1|Guest|Checkout|VR|서현지|서현지, 길재환, 이주영|[링크](https://trello.com/b/yKjYmj4C/project)|
+|2|미정|Tune(가칭)|VR|김석우|장세림, 김석우, 김민지|[링크](https://trello.com/b/JaUhdPFq/teammanagementboard)|
+|3|미정|Q-Brain|AR|이재민|이재민,이유나, 추성결|[링크](https://trello.com/b/krNboHzW/q-brain)|
+|4|미정|HandMade|VR|이주성|이주성, 이유성, 장민욱, 권영진|[링크](https://trello.com/b/IxFITtmL/handmade)|
+|5|미정|VR_Final_MoaMoa|VR|김승환|김승환, 홍지원, 신하은, 이건|[링크](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)|
+|6|미정|Tears of the medici|VR|구관우|구관우, 강태훈, 현민기, 강효준|[링크](https://trello.com/b/c7CLErgg/tears-of-the-medichi)|
 |7|미정|미정|VR|김영서|김영서||
 
 
