@@ -287,7 +287,7 @@ git push origin develop
 
 - .gitattributes 파일에 다음 라인 추가
 - 유니티에서 터레인과 라이트맵 파일은 2진 파일로 생성
-- 
+
 ``` 
 	*Terrain*.asset binary
 	*Lightmap*.asset binary
