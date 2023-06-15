@@ -10,15 +10,15 @@
 - 선정된 기획에 대해 브레인 스토밍
 - 대략적인 구현 기능 목록 정리
 
-| NO  | 팀명    | 프로젝트명          | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
-| --- | ------- | ------------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
-| 1   | Guest   | Checkout            | VR     | 서현지 | 서현지, 길재환, 이주영         | [링크](https://trello.com/b/yKjYmj4C/project)              |
-| 2   | 미정    | Tunning             | VR     | 김석우 | 장세림, 김석우, 김민지         | [링크](https://trello.com/b/JaUhdPFq/teammanagementboard)  |
-| 3   | Q-Brain |                     | AR     | 이재민 | 이재민,이유나, 추성결          | [링크](https://trello.com/b/krNboHzW/q-brain)              |
-| 4   | 미정    | HandMade            | VR     | 이주성 | 이주성, 이유성, 장민욱, 권영진 | [링크](https://trello.com/b/IxFITtmL/handmade)             |
-| 5   | 미정    | VR_Final_MoaMoa     | VR     | 김승환 | 김승환, 홍지원, 신하은, 이건   | [링크](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)        |
-| 6   | 미정    | Tears of the medici | VR     | 구관우 | 구관우, 강태훈, 현민기, 강효준 | [링크](https://trello.com/b/c7CLErgg/tears-of-the-medichi) |
-| 7   | 미정    | 미정                | VR     | 김영서 | 김영서                         |                                                            |
+| NO  | 팀명                | 프로젝트명                   | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
+| --- | ------------------- | ---------------------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
+| 1   | Guest               | Checkout                     | VR     | 서현지 | 서현지, 길재환, 이주영         | [링크](https://trello.com/b/yKjYmj4C/project)              |
+| 2   | Curving Point       | Tuning                       | VR     | 김석우 | 장세림, 김석우, 김민지         | [링크](https://trello.com/b/JaUhdPFq/teammanagementboard)  |
+| 3   | Q-Brain             | CubiIsland - 불러오는 사고력 | AR     | 이재민 | 이재민,이유나, 추성결          | [링크](https://trello.com/b/krNboHzW/q-brain)              |
+| 4   | Signiture           | HandMade                     | VR     | 이주성 | 이주성, 이유성, 장민욱, 권영진 | [링크](https://trello.com/b/IxFITtmL/handmade)             |
+| 5   | 미정                | VR_Final_MoaMoa              | VR     | 김승환 | 김승환, 홍지원, 신하은, 이건   | [링크](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)        |
+| 6   | Tears of the medici | Tears of the medici          | VR     | 구관우 | 구관우, 강태훈, 현민기, 강효준 | [링크](https://trello.com/b/c7CLErgg/tears-of-the-medichi) |
+| 7   | 미정                | 미정                         | VR     | 김영서 | 김영서                         |                                                            |
 
 
 ## 기획 산출물
@@ -100,90 +100,6 @@
 2. Screen Design (ppt)
 3. UI Design (ppt)
 4. 기능 명세서 (excel)
-
----
-
-<!-- 
-## Git 수업
-
-### 복습 문제
-
-1. 새로운 리포지토리 생성 - 별도의 폴더를 생성한 후 리포지토리 초기화 - git init
-2. 3개의 파일을 생성(텍스트 파일)
-3. 1번째 커밋
-4. 1개의 파일 삭제한 후 커밋
-5. 1개의 파일에 내용을 추가(변경한 후)
-6. 커밋
-7. 롤백 실습(1번째 커밋으로 롤백)
-8. 브랜치 생성
-9. 생성한 브랜치로 체크아웃
-10. 해당 브랜치에서 파일내용 수정
-11. 커밋
-12. master 브랜치로 체크아웃
-13. 동일한 파일 내용 수정(충돌 발생을 위한)
-14. 수정 내용 커밋
-15. master 브랜치로 병합 시도 -> 충돌 발생
-16. 충돌 해결 (수정) 후 커밋
-17. master 브랜치로 병합 완료
-
-
-### 깃 브랜치 전략
-### Git Flow
-
-![](git-flow.png)
-
-- 작업 시작하기 전 깃 작업
-
-```shell
-# 로컬 조장소가 develop 브랜치인지 확인
-git branch
-
-# 만약 develop 브랜치가 아닌경우 develop 브랜치로 체크아웃
-git checkout develop
-
-# 원격 저장소의 develop 브랜치에서 가져오기(Pull)
-git pull origin develop
-
-# 충돌(Conflict)가 발생한 경우 해결한 후 Merge Commit 한다.
-git add .
-git commit -m "충돌해결 - 내용"
-
-# 정상적으로 pull이 완료된 후 자신의 개발 브랜치로 체크아웃
-git checkout dev/LJH
-
-# 로컬 develop 저장소의 변경사항을 자신의 개발 브랜치로 Merge 한다.
-git merge develop
-
-# 충돌(Conflict)가 발생한 경우 해결한 후 Merge Commit 한다.
-git add .
-git commit -m "충돌해결 - 내용"
-
-# 정상적으로 병합이 완료된 후 작업을 진행한다.
-
-```
-
-- 작업 종료 후 깃 작업
-
-```shell
-# 자신의 개발 브랜치의 작업내용을 모두 커밋한다.
-git add .
-git commit -m "작업 내용"
-
-# 로컬 develop 브랜치로 체크아웃한다.
-git checkout develop
-
-# 자신의 개발 브랜치의 내용을 로컬 develop 브랜치로 병합(merge) 한다.
-git merge dev/LJH
-
-# 충돌(Conflict)가 발생한 경우 해결한 후 Merge Commit 한다.
-git add .
-git commit -m "충돌해결 - 내용"
-
-# 충돌을 해결하거나 정상적으로 병합이 완료된 경우 원격 develop 브랜치로 push 한다.
-git push origin develop
-
-# 만약 원격 리포지토리에 변경 사항이 있을 경우 먼저 Pull 한 후 Push 한다.
-``` -->
 
 ---
 ## ML-Agents 설정
@@ -292,3 +208,14 @@ git push origin develop
 	*Terrain*.asset binary
 	*Lightmap*.asset binary
 ```
+
+## 현업 멘토링
+
+| 업체명         | 업종       | 홈페이지            | 멘티 팀명          |
+| -------------- | ---------- | ------------------- | ------------------ |
+| 팀엔터테인먼트 | 게임       | www.timent.co.kr    | Tear of the Medici |
+| 글로브포인트   | 교육       | www.vrware.co.kr    | Q-Brain            |
+| 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | Signiture          |
+| 스코넥         | 게임       | www.skonec.com      | Guest              |
+| 플레이스비     | 콘텐츠     | www.placeb.com      | Curving Point      |
+| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | 미정(MoaMoa)       |
