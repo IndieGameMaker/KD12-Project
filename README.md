@@ -209,7 +209,7 @@ git push origin develop
 	*Lightmap*.asset binary
 ```
 
-## 현업 멘토링
+<!-- ## 현업 멘토링
 
 | 업체명         | 업종       | 홈페이지            | 멘티 팀명          |
 | -------------- | ---------- | ------------------- | ------------------ |
@@ -218,4 +218,4 @@ git push origin develop
 | 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | Signiture          |
 | 스코넥         | 게임       | www.skonec.com      | Guest              |
 | 플레이스비     | 콘텐츠     | www.placeb.com      | 미정(MoaMoa)       |
-| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | Curving Point      |
+| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | Curving Point      | --> |
