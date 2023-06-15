@@ -217,5 +217,5 @@ git push origin develop
 | 글로브포인트   | 교육       | www.vrware.co.kr    | Q-Brain            |
 | 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | Signiture          |
 | 스코넥         | 게임       | www.skonec.com      | Guest              |
-| 플레이스비     | 콘텐츠     | www.placeb.com      | Curving Point      |
-| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | 미정(MoaMoa)       |
+| 플레이스비     | 콘텐츠     | www.placeb.com      | 미정(MoaMoa)       |
+| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | Curving Point      |
