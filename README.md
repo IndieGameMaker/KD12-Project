@@ -10,15 +10,15 @@
 - 선정된 기획에 대해 브레인 스토밍
 - 대략적인 구현 기능 목록 정리
 
-| NO  | 팀명                | 프로젝트명                         | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     |
-| --- | ------------------- | ---------------------------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- |
-| 1   | Guest               | Checkout                           | VR     | 서현지 | 서현지, 길재환, 이주영         | [링크](https://trello.com/b/yKjYmj4C/project)              |
-| 2   | Curving Point       | Tuning                             | VR     | 김석우 | 장세림, 김석우, 김민지         | [링크](https://trello.com/b/JaUhdPFq/teammanagementboard)  |
-| 3   | Q-Brain             | CubiIsland 1 <br>- 굴러오는 사고력 | AR     | 이재민 | 이재민,이유나, 추성결          | [링크](https://trello.com/b/krNboHzW/q-brain)              |
-| 4   | Signiture           | HandMade                           | VR     | 이주성 | 이주성, 이유성, 장민욱, 권영진 | [링크](https://trello.com/b/IxFITtmL/handmade)             |
-| 5   | MoaMoa              | Gradational Maze                   | VR     | 김승환 | 김승환, 홍지원, 신하은, 이건   | [링크](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)        |
-| 6   | Tears of the medici | Tears of the medici                | VR     | 구관우 | 구관우, 강태훈, 현민기, 강효준 | [링크](https://trello.com/b/c7CLErgg/tears-of-the-medichi) |
-| 7   | 미정                | 미정                               | VR     | 김영서 | 김영서                         |                                                            |
+| NO  | 팀명                | 프로젝트명                         | 플랫폼 | 팀장   | 팀원                           | 트렐로                                                     | 멘토           |
+| --- | ------------------- | ---------------------------------- | ------ | ------ | ------------------------------ | ---------------------------------------------------------- | -------------- |
+| 1   | Guest               | Checkout                           | VR     | 서현지 | 서현지, 길재환, 이주영         | [링크](https://trello.com/b/yKjYmj4C/project)              | 스코넥         |
+| 2   | Curving Point       | Tuning                             | VR     | 김석우 | 장세림, 김석우, 김민지         | [링크](https://trello.com/b/JaUhdPFq/teammanagementboard)  | 로보웍스       |
+| 3   | Q-Brain             | CubiIsland 1 <br>- 굴러오는 사고력 | AR     | 이재민 | 이재민,이유나, 추성결          | [링크](https://trello.com/b/krNboHzW/q-brain)              | 글로브포인트   |
+| 4   | Signiture           | HandMade                           | VR     | 이주성 | 이주성, 이유성, 장민욱, 권영진 | [링크](https://trello.com/b/IxFITtmL/handmade)             | 이노시뮬레이션 |
+| 5   | MoaMoa              | Gradational Maze                   | VR     | 김승환 | 김승환, 홍지원, 신하은, 이건   | [링크](https://trello.com/b/7AlYfnOH/vrfinalmoamoa)        | 플레이스비     |
+| 6   | Tears of the medici | Tears of the medici                | VR     | 구관우 | 구관우, 강태훈, 현민기, 강효준 | [링크](https://trello.com/b/c7CLErgg/tears-of-the-medichi) | 팀엔터테인먼트 |
+| 7   | 미정                | 미정                               | VR     | 김영서 | 김영서                         |                                                            | 개인 멘토      |
 
 
 ## 기획 산출물
