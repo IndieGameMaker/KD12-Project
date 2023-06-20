@@ -217,7 +217,7 @@ git push origin develop
 | 글로브포인트   | 교육       | www.vrware.co.kr    | 이용일 실장     | yi.lee@globepoint.co.kr | Q-Brain            | 6/20 오후 4시 또는 6/21 오전 11시                    |
 | 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | 이지선 이사     | jslee@innosim.com       | Signiture          | 직접 협의                                            |
 | 스코넥         | 게임       | www.skonec.com      | 노충현 프로듀서 | chnoh@skonec.com        | Guest              | 매주 수요일 오후 6:30 ~ 8:30                         |
-| 플레이스비     | 콘텐츠     | www.placeb.com      | 장상규 이사     |                         | MoaMoa             | 오늘 오후 또는 내일 대면                             |
+| 플레이스비     | 콘텐츠     | www.placeb.com      | 장상규 이사     | skjang@placeb.com       | MoaMoa             | 오늘 오후 또는 내일 대면                             |
 | 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | 이현종 대표     | sbono@naver.com         | Curving Point      | 수요일 오전/ 목요일 오전(12 까지) 또는 저녁 7시 이후 |
 | 개인 멘토      | -          | -                   | 이광호          |                         | 김영서             | 목요일 오후 3시 온라인                               |
 
