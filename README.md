@@ -211,20 +211,21 @@ git push origin develop
 
 ## 현업 멘토링
 
-| 업체명         | 업종       | 홈페이지            | 멘토 담당자     | 이메일                  | 멘티 팀명          |
-| -------------- | ---------- | ------------------- | --------------- | ----------------------- | ------------------ |
-| 팀엔터테인먼트 | 게임       | www.timent.co.kr    | 김석겸 팀장     | yourang@timent.co.kr    | Tear of the Medici |
-| 글로브포인트   | 교육       | www.vrware.co.kr    | 이용일 실장     | yi.lee@globepoint.co.kr | Q-Brain            |
-| 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | 이지선 이사     | jslee@innosim.com       | Signiture          |
-| 스코넥         | 게임       | www.skonec.com      | 노충현 프로듀서 | chnoh@skonec.com        | Guest              |
-| 플레이스비     | 콘텐츠     | www.placeb.com      | 장상규 이사     |                         | MoaMoa             |
-| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | 이현종 대표     | sbono@naver.com         | Curving Point      |
-| 개인 멘토      | -          | -                   | 이광호          |                         | 김영서             |
+| 업체명         | 업종       | 홈페이지            | 멘토 담당자     | 이메일                  | 멘티 팀명          | 멘토링 일정                                          |
+| -------------- | ---------- | ------------------- | --------------- | ----------------------- | ------------------ | ---------------------------------------------------- |
+| 팀엔터테인먼트 | 게임       | www.timent.co.kr    | 김석겸 팀장     | yourang@timent.co.kr    | Tear of the Medici | 직접 협의                                            |
+| 글로브포인트   | 교육       | www.vrware.co.kr    | 이용일 실장     | yi.lee@globepoint.co.kr | Q-Brain            | 6/20 오후 4시 또는 6/21 오전 11시                    |
+| 이노시뮬레이션 | 시뮬레이션 | www.innosim.com     | 이지선 이사     | jslee@innosim.com       | Signiture          | 직접 협의                                            |
+| 스코넥         | 게임       | www.skonec.com      | 노충현 프로듀서 | chnoh@skonec.com        | Guest              | 매주 수요일 오후 6:30 ~ 8:30                         |
+| 플레이스비     | 콘텐츠     | www.placeb.com      | 장상규 이사     |                         | MoaMoa             | 오늘 오후 또는 내일 대면                             |
+| 로보웍스       | VR 콘텐츠  | www.roboworks.co.kr | 이현종 대표     | sbono@naver.com         | Curving Point      | 수요일 오전/ 목요일 오전(12 까지) 또는 저녁 7시 이후 |
+| 개인 멘토      | -          | -                   | 이광호          |                         | 김영서             | 목요일 오후 3시 온라인                               |
 
 ### 멘토일 일정
  - 주 1회 2시간 (요일과 시간은 멘토와 협의해 변경가능)
  - 멘토링 장소 (추후 공지, 빈 강의장 섭외 예정)
- - 멘토링 방식 (줌 연결, 오프라인)
+ - 멘토링 방식 (줌 또는 오프라인)
  - 줌 계정은 추후 전달 예정
- - 금일(6월 20일) 멘토 담장자에게 팀장이 인사 메일 보내기 (팀과 팀원 소개 및 상견례)
+ - 금일(6월 21일) 멘토 담장자에게 팀장이 인사 메일 보내기 (팀과 팀원 소개 및 상견례)
+ - 멘토분과 일정이 협의되면 윤희영 과장님께 일정 공유 및 줌 계정 요청
   
