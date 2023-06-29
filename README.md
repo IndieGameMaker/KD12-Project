@@ -1,5 +1,19 @@
 # 프로젝트 기반 VR 콘텐츠 개발과정 - 12기
 
+## 중간 점검 순서
+
+날짜 : 6월 30일 10:00 ~
+
+| NO  | 팀명                | 프로젝트명                         | 팀장   | 팀원                           |
+| --- | ------------------- | ---------------------------------- | ------ | ------------------------------ |
+| 1   | Q-Brain             | CubiIsland 1 <br>- 굴러오는 사고력 | 이재민 | 이재민,이유나, 추성결          |
+| 2   | Signiture           | HandMade                           | 이주성 | 이주성, 이유성, 장민욱, 권영진 |
+| 3   | Guest               | Checkout                           | 서현지 | 서현지, 길재환, 이주영         |
+| 4   | Curving Point       | Tuning                             | 김석우 | 장세림, 김석우, 김민지         |
+| 5   | MoaMoa              | Gradational Maze                   | 김승환 | 김승환, 홍지원, 신하은, 이건   |
+| 6   | Tears of the medici | Tears of the medici                | 구관우 | 구관우, 강태훈, 현민기, 강효준 |
+| 7   | 미정                | 미정                               | 김영서 | 김영서                         |
+
 ## 기획 발표문서
 
 [발표 문서 업로드](https://drive.google.com/drive/folders/1fFwbWNDJ8QJoe2Db2GLpjP1PG9XFGkZQ?usp=sharing)
